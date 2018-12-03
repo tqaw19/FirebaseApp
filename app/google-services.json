@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "510735464015",
+    "firebase_url": "https://fir-app-ab6f1.firebaseio.com",
+    "project_id": "fir-app-ab6f1",
+    "storage_bucket": "fir-app-ab6f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510735464015:android:46bc836be9e82595",
+        "android_client_info": {
+          "package_name": "app.quesada.com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510735464015-e6o6je5pdt8qkqthnmsptsvja4tu4iva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.quesada.com.firebaseapp",
+            "certificate_hash": "9a58e7dc6b047fc5b2b59ef77191d1853691bb09"
+          }
+        },
+        {
+          "client_id": "510735464015-ou8ep468q8qfh9udad19qhv61uo5iis5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqVaVO9onyqhXmm6XGasjsLY_WAMLMsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510735464015-ou8ep468q8qfh9udad19qhv61uo5iis5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
